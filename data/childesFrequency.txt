@@ -1,0 +1,11 @@
+verb,frequency
+walk,125
+break,411
+think,1515
+wear,62
+help,53
+talk,73
+catch,219
+listen,11
+hide,25
+smash,26

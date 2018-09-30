@@ -1,0 +1,11 @@
+verb,stem,suffix
+walk,walk,ed
+break,broke,
+think,thought,
+wear,wore,
+help,help,ed
+talk,talk,ed
+catch,caught,
+listen,listen,ed
+hide,hid,
+smash,smash,ed
